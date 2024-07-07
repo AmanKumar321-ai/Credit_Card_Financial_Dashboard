@@ -1,5 +1,6 @@
 # Credit_Card_Financial_Dashboard
 Power BI Dashboard
+
 PROJECT OBJECTIVE:To create an interactive and insightful Power BI dashboard that visualizes key metrics and trends in a credit card financial report.
 DATASET: Financial dataset
 STEPS: Understand Requirements>Data Collection>Data Preparation>Data Modeling>Design the Dashboard>Test the Dashboard
